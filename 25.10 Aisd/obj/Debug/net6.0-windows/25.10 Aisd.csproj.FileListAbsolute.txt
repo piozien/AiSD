@@ -1,0 +1,16 @@
+D:\uwm\rok2\AiSD\25.10 Aisd\bin\Debug\net6.0-windows\25.10 Aisd.exe
+D:\uwm\rok2\AiSD\25.10 Aisd\bin\Debug\net6.0-windows\25.10 Aisd.deps.json
+D:\uwm\rok2\AiSD\25.10 Aisd\bin\Debug\net6.0-windows\25.10 Aisd.runtimeconfig.json
+D:\uwm\rok2\AiSD\25.10 Aisd\bin\Debug\net6.0-windows\25.10 Aisd.dll
+D:\uwm\rok2\AiSD\25.10 Aisd\bin\Debug\net6.0-windows\25.10 Aisd.pdb
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\_25._10_Aisd.Form1.resources
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.dll
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\refint\25.10 Aisd.dll
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.pdb
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\25.10 Aisd.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\25.10 Aisd\obj\Debug\net6.0-windows\ref\25.10 Aisd.dll

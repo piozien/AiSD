@@ -1,0 +1,10 @@
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.csproj.AssemblyReference.cache
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.Form1.resources
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.Properties.Resources.resources
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\dodatkowe\bin\Debug\dodatkowe.exe.config
+D:\uwm\rok2\AiSD\dodatkowe\bin\Debug\dodatkowe.exe
+D:\uwm\rok2\AiSD\dodatkowe\bin\Debug\dodatkowe.pdb
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.exe
+D:\uwm\rok2\AiSD\dodatkowe\obj\Debug\dodatkowe.pdb

@@ -1,0 +1,16 @@
+D:\uwm\rok2\AiSD\SelectSort\bin\Debug\net6.0-windows\SelectSort.exe
+D:\uwm\rok2\AiSD\SelectSort\bin\Debug\net6.0-windows\SelectSort.deps.json
+D:\uwm\rok2\AiSD\SelectSort\bin\Debug\net6.0-windows\SelectSort.runtimeconfig.json
+D:\uwm\rok2\AiSD\SelectSort\bin\Debug\net6.0-windows\SelectSort.dll
+D:\uwm\rok2\AiSD\SelectSort\bin\Debug\net6.0-windows\SelectSort.pdb
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.Form1.resources
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.dll
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\refint\SelectSort.dll
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.pdb
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\SelectSort.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\SelectSort\obj\Debug\net6.0-windows\ref\SelectSort.dll
