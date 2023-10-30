@@ -35,28 +35,32 @@
             // 
             // tbInput
             // 
+            tbInput.Font = new Font("Arial", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            tbInput.ForeColor = SystemColors.ActiveCaptionText;
             tbInput.Location = new Point(260, 170);
             tbInput.Name = "tbInput";
-            tbInput.Size = new Size(231, 27);
+            tbInput.Size = new Size(231, 25);
             tbInput.TabIndex = 0;
             // 
             // btnBubbleSort
             // 
-            btnBubbleSort.Location = new Point(310, 307);
+            btnBubbleSort.Location = new Point(260, 333);
             btnBubbleSort.Name = "btnBubbleSort";
-            btnBubbleSort.Size = new Size(125, 51);
+            btnBubbleSort.Size = new Size(231, 51);
             btnBubbleSort.TabIndex = 2;
             btnBubbleSort.Text = "Start";
             btnBubbleSort.UseVisualStyleBackColor = true;
+            btnBubbleSort.Click += btnBubbleSort_Click;
             // 
             // lblWynik
             // 
             lblWynik.AutoSize = true;
-            lblWynik.Location = new Point(347, 252);
+            lblWynik.Location = new Point(260, 252);
             lblWynik.Name = "lblWynik";
-            lblWynik.Size = new Size(50, 20);
+            lblWynik.Size = new Size(70, 20);
             lblWynik.TabIndex = 3;
-            lblWynik.Text = "label1";
+            lblWynik.Text = "Rezultat: ";
+            lblWynik.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
