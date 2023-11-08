@@ -55,3 +55,29 @@ namespace _18._10
 }
 
 //sortowanie przez wybieranie select sort
+
+/*
+ * Bubble sort by Szypulski
+ * 
+int[] bubbleSort(int[] array)
+{
+    int temp = 0;
+    bool sort = false;
+    do
+    {
+        sort = false;
+
+        for (int i = 0; i < array.Length - 1; i++)
+        {
+            if (array[i] > array[i + 1])
+            {
+                temp = array[i];
+                array[i] = array[i + 1];
+                array[i + 1] = temp;
+            }
+        }
+    }
+    while (sort);
+    return array;
+}
+*/

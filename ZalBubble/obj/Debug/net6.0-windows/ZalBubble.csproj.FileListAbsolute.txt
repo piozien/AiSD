@@ -1,0 +1,16 @@
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.Form1.resources
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\ZalBubble\bin\Debug\net6.0-windows\ZalBubble.exe
+D:\uwm\rok2\AiSD\ZalBubble\bin\Debug\net6.0-windows\ZalBubble.deps.json
+D:\uwm\rok2\AiSD\ZalBubble\bin\Debug\net6.0-windows\ZalBubble.runtimeconfig.json
+D:\uwm\rok2\AiSD\ZalBubble\bin\Debug\net6.0-windows\ZalBubble.dll
+D:\uwm\rok2\AiSD\ZalBubble\bin\Debug\net6.0-windows\ZalBubble.pdb
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.dll
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\refint\ZalBubble.dll
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.pdb
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ZalBubble.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\ZalBubble\obj\Debug\net6.0-windows\ref\ZalBubble.dll
