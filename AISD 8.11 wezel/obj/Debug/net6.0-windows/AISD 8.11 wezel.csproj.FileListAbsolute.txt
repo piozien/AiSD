@@ -1,0 +1,33 @@
+C:\Users\local\Desktop\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.exe
+C:\Users\local\Desktop\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.deps.json
+C:\Users\local\Desktop\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.runtimeconfig.json
+C:\Users\local\Desktop\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.dll
+C:\Users\local\Desktop\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.pdb
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.csproj.AssemblyReference.cache
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD_8._11_wezel.Form1.resources
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.csproj.GenerateResource.cache
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.AssemblyInfoInputs.cache
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.AssemblyInfo.cs
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.dll
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\refint\AISD 8.11 wezel.dll
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.pdb
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.genruntimeconfig.cache
+C:\Users\local\Desktop\AISD 8.11 wezel\obj\Debug\net6.0-windows\ref\AISD 8.11 wezel.dll
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.exe
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.deps.json
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.runtimeconfig.json
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.dll
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\bin\Debug\net6.0-windows\AISD 8.11 wezel.pdb
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD_8._11_wezel.Form1.resources
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.dll
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\refint\AISD 8.11 wezel.dll
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.pdb
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\AISD 8.11 wezel.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\AISD 8.11 wezel\obj\Debug\net6.0-windows\ref\AISD 8.11 wezel.dll

@@ -59,7 +59,6 @@ private void Form1_Load(object sender, EventArgs e)
             return wynik;
 
         }
-
         private void NumericA_ValueChanged(object sender, EventArgs e)
         {
 
