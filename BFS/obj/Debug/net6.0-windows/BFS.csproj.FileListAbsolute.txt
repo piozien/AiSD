@@ -1,0 +1,16 @@
+D:\uwm\rok2\AiSD\BFS\bin\Debug\net6.0-windows\BFS.exe
+D:\uwm\rok2\AiSD\BFS\bin\Debug\net6.0-windows\BFS.deps.json
+D:\uwm\rok2\AiSD\BFS\bin\Debug\net6.0-windows\BFS.runtimeconfig.json
+D:\uwm\rok2\AiSD\BFS\bin\Debug\net6.0-windows\BFS.dll
+D:\uwm\rok2\AiSD\BFS\bin\Debug\net6.0-windows\BFS.pdb
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.Form1.resources
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.dll
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\refint\BFS.dll
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.pdb
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\BFS.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\BFS\obj\Debug\net6.0-windows\ref\BFS.dll
