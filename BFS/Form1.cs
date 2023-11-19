@@ -1,4 +1,6 @@
 using System.Runtime.Intrinsics.X86;
+using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace BFS
 {
@@ -14,49 +16,13 @@ namespace BFS
 
         private void StartBT_Click(object sender, EventArgs e)
         {
-            var w1 = new wêze³(5);
-            var w2 = new wêze³(3);
-            var w3 = new wêze³(1);
-            var w4 = new wêze³(2);
-            var w5 = new wêze³(6);
-            var w6 = new wêze³(4);
-
-            w1.dzieci.Add(w2);
-            w1.dzieci.Add(w3);
-            w1.dzieci.Add(w4);
-            w2.dzieci.Add(w5);
-            w2.dzieci.Add(w6);
-            //A(w1);
-            //MessageBox.Show(napis);
-
-            ////////////////////////////////////////////////////////////////////
-            // BFS
-
-            //zaczynam od wêz³a 1
             var n1 = new note2(1);
-            var n2 = new note2(3);
+            var n2 = new note2(2);
             var n3 = new note2(3);
             var n4 = new note2(4);
             var n5 = new note2(5);
             var n6 = new note2(6);
             var n7 = new note2(7);
-
-            /*n1.Adds(n2);
-            n1.sasiad.Add(n4);
-            n1.sasiad.Add(n5);
-            n2.sasiad.Add(n1);
-            n2.sasiad.Add(n3);
-            n3.sasiad.Add(n2);
-            n3.sasiad.Add(n4);
-            n4.sasiad.Add(n3);
-            n4.sasiad.Add(n1);
-            n5.sasiad.Add(n1);
-            n5.sasiad.Add(n6);
-            n5.sasiad.Add(n7);
-            n6.sasiad.Add(n5);
-            n6.sasiad.Add(n7);
-            n7.sasiad.Add(n5);
-            n7.sasiad.Add(n6);*/
           
 
             n1.Adds(n2);
@@ -69,43 +35,40 @@ namespace BFS
             n6.Adds(n7);
 
             BFS(n1);
-
-        }
-        void BFS(note2 n)
-        {
            
-            
-
-
-
 
         }
-        void A(wêze³ w)
+        void BFS(note2 start)
         {
-            //najpierw wypisuje korzeñ a póniej schodza do "dzieci"
-            // napis += " " + w.wartosc.ToString();
-            for (int i = 0; i < w.dzieci.Count; i++)
+            Queue<note2> kolejka = new Queue<note2>();
+            List<note2> usuniete = new List<note2>();
+            usuniete.Add(start);
+            string napis2 = "";
+
+            kolejka.Enqueue(start);
+
+            while (kolejka.Count > 0)
             {
-                A(w.dzieci[i]);
+                note2 aktualny = kolejka.Dequeue();
+                napis2 += aktualny.wartosc;
+
+                foreach (var sasiad in aktualny.sasiad)
+                {
+                    if (!usuniete.Contains(sasiad))
+                    {
+                        kolejka.Enqueue(sasiad);
+                        usuniete.Add(sasiad);
+                    }
+                }
             }
-            //zaznaczam najpierw to co odwiedzi³em a póniej ide w strone korzenia
-            napis += " " + w.wartosc.ToString();
-        }
-    }
-    class wêze³
-    {
-        public int wartosc;
-        public List<wêze³> dzieci = new List<wêze³>();
 
-        public wêze³(int wartosc)
-        {
-            this.wartosc = wartosc;
-
+            MessageBox.Show(napis2);
         }
 
+    
     }
 
-    class note2
+    public class note2
     {
         public int wartosc;
         public List<note2> sasiad = new List<note2>();
