@@ -7,68 +7,52 @@ namespace SelectSort
             InitializeComponent();
         }
 
-        private void StartBT_Click(object sender, EventArgs e)
+        private void SelectSort_Click(object sender, EventArgs e)
         {
-          
-            string sizeInput = Microsoft.VisualBasic.Interaction.InputBox("Podaj rozmiar tablicy: ", "WprowadŸ rozmiar", "0");
-
-            if (int.TryParse(sizeInput, out int arraySize) && arraySize > 0)
-            {
-                
-                int[] myArray = GetIntArrayFromUser(arraySize);
-
-
-                string arrayString = string.Join(", ", myArray);
-                MessageBox.Show("Wczytana tablica: " + arrayString);
-
-                SelectSort(myArray);
-
-                string sortedArrayString = string.Join(", ", myArray);
-                MessageBox.Show("Posortowana tablica: " + sortedArrayString);
-            }
-            else
-            {
-                MessageBox.Show("Podaj poprawny rozmiar tablicy (liczbê ca³kowit¹ wiêksz¹ od zera).");
-            }
+            string tabs = tbInput.Text;
+            int[] tab = convertInt(tabs);
+            int[] tab2 = selectSort(tab);
+            string wyn = convertString(tab2);
+            lblWynik.Text = ("Wyn: " + wyn);
         }
-
-        private int[] GetIntArrayFromUser(int size)
+        int[] convertInt(string napis)
         {
-            int[] array = new int[size];
-
-            for (int i = 0; i < size; i++)
+            var liczbyS = napis.Trim().Split(' ');
+            int[] liczby = new int[liczbyS.Length];
+            for (int i = 0; i < liczbyS.Length; i++)
             {
-                string input = Microsoft.VisualBasic.Interaction.InputBox("Podaj element tablicy o indeksie " + i.ToString() + ": ", "Wczytaj element", "0");
-                if (int.TryParse(input, out int element))
-                {
-                    array[i] = element;
-                }
-                else
-                {
-                    MessageBox.Show("To nie jest liczba ca³kowita. WprowadŸ poprawn¹ liczbê.");
-                    i--;
-                }
+                liczby[i] = int.Parse(liczbyS[i]);
             }
-
-            return array;
+            return liczby;
         }
-        private void SelectSort(int[] array)
+        string convertString(int[] tab)
         {
-            int min;
-            int temp;
-            for(int i=0; i < array.Length - 1; i++) {
-                min = i;
-                for(int j = i; j < array.Length; j++)
+            string wynik = "";
+            for (int i = 0; i < tab.Length; i++)
+            {
+                wynik += tab[i].ToString() + " ";
+            }
+            return wynik;
+        }
+        int[] selectSort(int[] tab)
+        {
+            int minI, temp;
+            for (int i = 0; i < tab.Length - 1; i++)
+            {
+                minI = i;
+                for (int j = i; j < tab.Length; j++)
                 {
-                    if (array[j] < array[min])
+                    if (tab[j] < tab[minI])
                     {
-                        min = j;
+                        minI = j;
                     }
                 }
-                temp = array[i];
-                array[i] = array[min];
-                array[min] = temp;
+                temp = tab[i];
+                tab[i] = tab[minI];
+                tab[minI] = temp;
             }
+            return tab;
         }
+
     }
 }

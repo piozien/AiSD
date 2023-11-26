@@ -1,0 +1,16 @@
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\bin\Debug\net8.0-windows\Ciąg_Fibonnaciego.exe
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\bin\Debug\net8.0-windows\Ciąg_Fibonnaciego.deps.json
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\bin\Debug\net8.0-windows\Ciąg_Fibonnaciego.runtimeconfig.json
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\bin\Debug\net8.0-windows\Ciąg_Fibonnaciego.dll
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\bin\Debug\net8.0-windows\Ciąg_Fibonnaciego.pdb
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.Form1.resources
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.csproj.GenerateResource.cache
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.AssemblyInfoInputs.cache
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.AssemblyInfo.cs
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.dll
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\refint\Ciąg_Fibonnaciego.dll
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.pdb
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\Ciąg_Fibonnaciego.genruntimeconfig.cache
+D:\uwm\rok2\Algorytmy\Ciąg_Fibonnaciego\obj\Debug\net8.0-windows\ref\Ciąg_Fibonnaciego.dll

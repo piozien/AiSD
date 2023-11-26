@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarne drzewo przeszukiwań BST", "Binarne drzewo przeszukiwań BST.csproj", "{6DEC9A31-4FB3-4317-846B-039B706FEA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DEC9A31-4FB3-4317-846B-039B706FEA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEC9A31-4FB3-4317-846B-039B706FEA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEC9A31-4FB3-4317-846B-039B706FEA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEC9A31-4FB3-4317-846B-039B706FEA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B48F98-9D02-404A-8DB6-D721F39FB49D}
+	EndGlobalSection
+EndGlobal

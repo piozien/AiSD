@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\bin\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.exe
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\bin\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.deps.json
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\bin\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.runtimeconfig.json
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\bin\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.dll
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\bin\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.pdb
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne_drzewo_przeszukiwań_BST.Form1.resources
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.sourcelink.json
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.dll
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\refint\Binarne drzewo przeszukiwań BST.dll
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.pdb
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\Binarne drzewo przeszukiwań BST.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\Binarne drzewo przeszukiwań BST\obj\Debug\net8.0-windows\ref\Binarne drzewo przeszukiwań BST.dll

@@ -28,33 +28,55 @@
         /// </summary>
         private void InitializeComponent()
         {
-            StartBT = new Button();
+            SelectSort = new Button();
+            tbInput = new TextBox();
+            lblWynik = new Label();
             SuspendLayout();
             // 
-            // StartBT
+            // SelectSort
             // 
-            StartBT.AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            StartBT.Location = new Point(380, 323);
-            StartBT.Name = "StartBT";
-            StartBT.Size = new Size(94, 29);
-            StartBT.TabIndex = 0;
-            StartBT.Text = "Start";
-            StartBT.UseVisualStyleBackColor = true;
-            StartBT.Click += StartBT_Click;
+            SelectSort.Location = new Point(293, 348);
+            SelectSort.Name = "SelectSort";
+            SelectSort.Size = new Size(201, 29);
+            SelectSort.TabIndex = 0;
+            SelectSort.Text = "Select";
+            SelectSort.UseVisualStyleBackColor = true;
+            SelectSort.Click += SelectSort_Click;
+            // 
+            // tbInput
+            // 
+            tbInput.Location = new Point(263, 295);
+            tbInput.Name = "tbInput";
+            tbInput.Size = new Size(275, 27);
+            tbInput.TabIndex = 1;
+            // 
+            // lblWynik
+            // 
+            lblWynik.AutoSize = true;
+            lblWynik.Location = new Point(352, 210);
+            lblWynik.Name = "lblWynik";
+            lblWynik.Size = new Size(50, 20);
+            lblWynik.TabIndex = 2;
+            lblWynik.Text = "label1";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(StartBT);
+            Controls.Add(lblWynik);
+            Controls.Add(tbInput);
+            Controls.Add(SelectSort);
             Name = "Form1";
-            Text = "-";
+            Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Button StartBT;
+        private Button SelectSort;
+        private TextBox tbInput;
+        private Label lblWynik;
     }
 }

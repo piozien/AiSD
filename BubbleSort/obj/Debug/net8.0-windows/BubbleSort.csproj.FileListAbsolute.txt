@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\BubbleSort\bin\Debug\net8.0-windows\BubbleSort.exe
+D:\uwm\rok2\AiSD\BubbleSort\bin\Debug\net8.0-windows\BubbleSort.deps.json
+D:\uwm\rok2\AiSD\BubbleSort\bin\Debug\net8.0-windows\BubbleSort.runtimeconfig.json
+D:\uwm\rok2\AiSD\BubbleSort\bin\Debug\net8.0-windows\BubbleSort.dll
+D:\uwm\rok2\AiSD\BubbleSort\bin\Debug\net8.0-windows\BubbleSort.pdb
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.Form1.resources
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.sourcelink.json
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.dll
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\refint\BubbleSort.dll
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.pdb
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\BubbleSort.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\BubbleSort\obj\Debug\net8.0-windows\ref\BubbleSort.dll

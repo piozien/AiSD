@@ -1,0 +1,33 @@
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.exe
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.deps.json
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.runtimeconfig.json
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.pdb
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly_i_kolejki_15._11.Form1.resources
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\refint\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.pdb
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\wezly i kolejki 15.11\obj\Debug\net6.0-windows\ref\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\DFS 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.exe
+D:\uwm\rok2\AiSD\DFS 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.deps.json
+D:\uwm\rok2\AiSD\DFS 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.runtimeconfig.json
+D:\uwm\rok2\AiSD\DFS 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\DFS 15.11\bin\Debug\net6.0-windows\wezly i kolejki 15.11.pdb
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly_i_kolejki_15._11.Form1.resources
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.sourcelink.json
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\refint\wezly i kolejki 15.11.dll
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.pdb
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\wezly i kolejki 15.11.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\DFS 15.11\obj\Debug\net6.0-windows\ref\wezly i kolejki 15.11.dll
