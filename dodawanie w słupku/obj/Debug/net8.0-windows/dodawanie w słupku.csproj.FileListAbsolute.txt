@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\dodawanie w słupku\bin\Debug\net8.0-windows\dodawanie w słupku.exe
+D:\uwm\rok2\AiSD\dodawanie w słupku\bin\Debug\net8.0-windows\dodawanie w słupku.deps.json
+D:\uwm\rok2\AiSD\dodawanie w słupku\bin\Debug\net8.0-windows\dodawanie w słupku.runtimeconfig.json
+D:\uwm\rok2\AiSD\dodawanie w słupku\bin\Debug\net8.0-windows\dodawanie w słupku.dll
+D:\uwm\rok2\AiSD\dodawanie w słupku\bin\Debug\net8.0-windows\dodawanie w słupku.pdb
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie_w_słupku.Form1.resources
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.sourcelink.json
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.dll
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\refint\dodawanie w słupku.dll
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.pdb
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\dodawanie w słupku.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\dodawanie w słupku\obj\Debug\net8.0-windows\ref\dodawanie w słupku.dll

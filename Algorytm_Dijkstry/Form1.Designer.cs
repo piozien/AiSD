@@ -1,0 +1,59 @@
+﻿namespace Algorytm_Dijkstry
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            Dijkstry = new Button();
+            SuspendLayout();
+            // 
+            // Dijkstry
+            // 
+            Dijkstry.Location = new Point(249, 331);
+            Dijkstry.Name = "Dijkstry";
+            Dijkstry.Size = new Size(287, 29);
+            Dijkstry.TabIndex = 0;
+            Dijkstry.Text = "Dijkstry";
+            Dijkstry.UseVisualStyleBackColor = true;
+            Dijkstry.Click += Dijkstry_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(Dijkstry);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Button Dijkstry;
+    }
+}

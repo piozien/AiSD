@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\uwm\\rok2\\Algorytmy\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj": {}
+    "D:\\uwm\\rok2\\AiSD\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj": {}
   },
   "projects": {
-    "D:\\uwm\\rok2\\Algorytmy\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj": {
+    "D:\\uwm\\rok2\\AiSD\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\uwm\\rok2\\Algorytmy\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj",
+        "projectUniqueName": "D:\\uwm\\rok2\\AiSD\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj",
         "projectName": "Ciąg_Fibonnaciego",
-        "projectPath": "D:\\uwm\\rok2\\Algorytmy\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj",
+        "projectPath": "D:\\uwm\\rok2\\AiSD\\Ciąg_Fibonnaciego\\Ciąg_Fibonnaciego.csproj",
         "packagesPath": "C:\\Users\\zient\\.nuget\\packages\\",
-        "outputPath": "D:\\uwm\\rok2\\Algorytmy\\Ciąg_Fibonnaciego\\obj\\",
+        "outputPath": "D:\\uwm\\rok2\\AiSD\\Ciąg_Fibonnaciego\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zient\\AppData\\Roaming\\NuGet\\NuGet.Config",

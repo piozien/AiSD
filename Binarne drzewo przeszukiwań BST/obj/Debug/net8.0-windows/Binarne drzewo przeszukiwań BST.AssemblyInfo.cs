@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Binarne drzewo przeszukiwań BST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+503cbfe9d4982858d3178b0bbca2bb0c4883eef7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Binarne drzewo przeszukiwań BST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Binarne drzewo przeszukiwań BST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

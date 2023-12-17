@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algorytm_Dijkstry/1.0.0": {
+        "runtime": {
+          "Algorytm_Dijkstry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorytm_Dijkstry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

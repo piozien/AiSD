@@ -6,6 +6,19 @@ namespace BubbleSort
         {
             InitializeComponent();
         }
+        private void btn_BubbleSort_Click(object sender, EventArgs e)
+        {
+            //int[] tab = { 4, 1, 3, 7, 5 };
+            //MessageBox.Show(ToString(tab));
+            //int[] tab_1 = bubbleSort(tab);
+            //MessageBox.Show(ToString(tab_1));
+
+            string liczby = tbInput.Text;
+            int[] tablica = Covert(liczby);
+            int[] tablica2 = bubbleSort(tablica);
+            lbl_wynik.Text = ("Wynik: " + ToString(tablica2));
+        }
+
         int[] bubbleSort(int[] tab)
         {
             int temp = tab[0];
@@ -50,17 +63,6 @@ namespace BubbleSort
             return tablica;
         }
 
-        private void btn_BubbleSort_Click(object sender, EventArgs e)
-        {
-            //int[] tab = { 4, 1, 3, 7, 5 };
-            //MessageBox.Show(ToString(tab));
-            //int[] tab_1 = bubbleSort(tab);
-            //MessageBox.Show(ToString(tab_1));
-
-            string liczby = tbInput.Text;
-            int[] tablica = Covert(liczby);
-            int[] tablica2 = bubbleSort(tablica);
-            lbl_wynik.Text = ("Wynik: " + ToString(tablica2));
-        }
+        
     }
 }

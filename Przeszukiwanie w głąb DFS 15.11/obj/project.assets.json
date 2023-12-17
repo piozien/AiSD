@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\uwm\\rok2\\AiSD\\DFS 15.11\\wezly i kolejki 15.11.csproj",
+      "projectUniqueName": "D:\\uwm\\rok2\\AiSD\\Przeszukiwanie w głąb DFS 15.11\\wezly i kolejki 15.11.csproj",
       "projectName": "wezly i kolejki 15.11",
-      "projectPath": "D:\\uwm\\rok2\\AiSD\\DFS 15.11\\wezly i kolejki 15.11.csproj",
+      "projectPath": "D:\\uwm\\rok2\\AiSD\\Przeszukiwanie w głąb DFS 15.11\\wezly i kolejki 15.11.csproj",
       "packagesPath": "C:\\Users\\zient\\.nuget\\packages\\",
-      "outputPath": "D:\\uwm\\rok2\\AiSD\\DFS 15.11\\obj\\",
+      "outputPath": "D:\\uwm\\rok2\\AiSD\\Przeszukiwanie w głąb DFS 15.11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zient\\AppData\\Roaming\\NuGet\\NuGet.Config",

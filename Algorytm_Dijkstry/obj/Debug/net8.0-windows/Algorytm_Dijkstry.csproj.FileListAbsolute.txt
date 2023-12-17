@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\bin\Debug\net8.0-windows\Algorytm_Dijkstry.exe
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\bin\Debug\net8.0-windows\Algorytm_Dijkstry.deps.json
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\bin\Debug\net8.0-windows\Algorytm_Dijkstry.runtimeconfig.json
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\bin\Debug\net8.0-windows\Algorytm_Dijkstry.dll
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\bin\Debug\net8.0-windows\Algorytm_Dijkstry.pdb
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.Form1.resources
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.sourcelink.json
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.dll
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\refint\Algorytm_Dijkstry.dll
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.pdb
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\Algorytm_Dijkstry\obj\Debug\net8.0-windows\ref\Algorytm_Dijkstry.dll

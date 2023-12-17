@@ -12,118 +12,176 @@ namespace Binarne_drzewo_przeszukiwań_BST
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string tabs = tbInput.Text;
-            int[] tab = convertInt(tabs);
-
-            note3 root = BuildBST(tab);
-
-            string napis = generujdrzewo(root, "");
-            MessageBox.Show(napis);
-        }
-        private string generujdrzewo(note3 node, string prefix = "", bool isLeft = false)
-        {
-            if (node == null)
-            {
-                return "";
-            }
-
-            string napis = "";
-
-            string side = isLeft ? "L" : "P";
-            string nodeInfo = $"{prefix}Dodano: [{side}] {node.wartosc}\n";
-
-            if (prefix == "")
-            {
-                napis += $"Korzeń {node.wartosc};\n";
-            }
-            else
-            {
-                napis += $"{prefix}{nodeInfo}";
-            }
-
-            if (node.leweDziecko != null || node.praweDziecko != null)
-            {
-                napis += generujdrzewo(node.leweDziecko, $"{prefix}Rodzic {node.wartosc};\n", true);
-                napis += generujdrzewo(node.praweDziecko, $"{prefix}Rodzic {node.wartosc};\n", false);
-            }
-
-            return napis;
+            var w1 = new Węzeł3(8);
+            var drzewo = new drzewoBinarne(w1);
+            drzewo.Add(3);
+            drzewo.Add(10);
+            drzewo.Add(14);
+            drzewo.Add(13);
+            drzewo.Add(1);
+            drzewo.Add(6);
+            drzewo.Add(7);
+            drzewo.Add(4);
+            var x = drzewo.następnik(drzewo.korzeń.praweDziecko.praweDziecko.leweDziecko);
         }
 
 
 
-
-
-
-
-
-        int[] convertInt(string napis)
+        class Węzeł3
         {
-            var liczbyS = napis.Trim().Split(' ');
-            int[] liczby = new int[liczbyS.Length];
-            for (int i = 0; i < liczbyS.Length; i++)
+            public int wartość;
+            public Węzeł3 rodzic;
+            public Węzeł3 leweDziecko;
+            public Węzeł3 praweDziecko;
+
+            public Węzeł3(int wartość)
             {
-                liczby[i] = int.Parse(liczbyS[i]);
-            }
-            return liczby;
-        }
-        public class note3
-        {
-            public int wartosc;
-            public note3 leweDziecko;
-            public note3 praweDziecko;
-            public note3 rodzic;
-            public note3(int wartosc)
-            {
-                this.wartosc = wartosc;
-                leweDziecko = null;
-                praweDziecko = null;
-                rodzic = null;
-            }
-        }
-        private note3 BuildBST(int[] values)
-        {
-            if (values == null || values.Length == 0)
-            {
-                return null;
+                this.wartość = wartość;
             }
 
-            var root = new note3(values[0]);
-
-            for (int i = 1; i < values.Length; i++)
+            internal void Add(int liczba)
             {
-                InsertIntoBST(root, values[i]);
-            }
-
-            return root;
-        }
-
-        private void InsertIntoBST(note3 root, int value)
-        {
-            var newNode = new note3(value);
-            newNode.rodzic = root;
-
-            if (value < root.wartosc)
-            {
-                if (root.leweDziecko == null)
+                var dziecko = new Węzeł3(liczba);
+                dziecko.rodzic = this;
+                if (liczba < this.wartość)
                 {
-                    root.leweDziecko = newNode;
+                    this.leweDziecko = dziecko;
                 }
                 else
                 {
-                    InsertIntoBST(root.leweDziecko, value);
+                    this.praweDziecko = dziecko;
                 }
             }
-            else
+
+
+        }
+
+        class drzewoBinarne
+        {
+            public Węzeł3 korzeń;
+
+
+            public drzewoBinarne(Węzeł3 korzeń)
             {
-                if (root.praweDziecko == null)
+                this.korzeń = korzeń;
+            }
+
+            public void Add(int liczba)
+            {
+                var rodzic = this.znajdźRodzica(liczba);
+                rodzic.Add(liczba);
+            }
+
+            private Węzeł3 znajdźRodzica(int liczba)
+            {
+                var w = this.korzeń;
+                while (true)
                 {
-                    root.praweDziecko = newNode;
+                    if (liczba < w.wartość)
+                    {
+                        if (w.leweDziecko != null)
+                        {
+                            w = w.leweDziecko;
+                        }
+                        else
+                        {
+                            return w;
+                        }
+
+                    }
+                    else
+                    {
+                        if (w.praweDziecko != null)
+                        {
+                            w = w.praweDziecko;
+                        }
+                        else
+                        {
+                            return w;
+                        }
+                    }
                 }
-                else
+
+            }
+            public Węzeł3 znajdź(int liczba)
+            {
+                var w = this.korzeń;
+                if (w.wartość == liczba)
                 {
-                    InsertIntoBST(root.praweDziecko, value);
+                    return w;
                 }
+                while (true)
+                {
+                    if (liczba < w.wartość)
+                    {
+                        if (w.leweDziecko != null)
+                        {
+                            w = w.leweDziecko;
+                            if (w.wartość == liczba)
+                            {
+                                return w;
+                            }
+                        }
+                        else
+                        {
+                            return null;
+                        }
+                    }
+                    else
+                    {
+                        if (w.praweDziecko != null)
+                        {
+                            w = w.praweDziecko;
+                            if (w.wartość == liczba)
+                            {
+                                return w;
+                            }
+
+                        }
+                        else
+                        {
+                            return null;
+                        }
+                    }
+                }
+            }
+            public Węzeł3 znajdźNajmniejszy(Węzeł3 w)
+            {
+                //wezeł 3 z najmniejsza wartoscia
+                while (w.leweDziecko != null)
+                {
+                    w = w.leweDziecko;
+                }
+                return w;
+            }
+            public Węzeł3 znajdźNajwiększy(Węzeł3 w)
+            {
+                //wezeł3 z największą wartościa
+                while (w.praweDziecko != null)
+                {
+                    w = w.praweDziecko;
+                }
+                return w;
+
+            }
+            public Węzeł3 następnik(Węzeł3 w)
+            {
+                //1: Jest prawe dziecko znajdź najmniejszy dla górnego dziecka
+                //2: Idę w górę tak długo aż wyjdę jako lewe dziecko rodzica, następnik to rodzic
+                //3: Gdy nie znajdę (2) i nie mogę iść do góry nie ma następnika
+                if (w.praweDziecko != null)
+                {
+                    return znajdźNajmniejszy(w.praweDziecko);
+                }
+                if (w.rodzic == null) return null;
+
+                while (w == w.rodzic.praweDziecko)
+                {
+                    w = w.rodzic;
+                    if (w.rodzic == null) return null;
+                }
+                return w.rodzic;
+
             }
         }
     }
