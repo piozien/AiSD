@@ -535,33 +535,8 @@ namespace Węzeł
         
 
     }
-    class Węzeł4
-    {
-        public int wartość;
-        public int liczbaKrawędzi;
-    }
-    class Krawędź
-    {
-        public int waga;
-        public Węzęł4 początek;
-        public Węzeł4 koniec;
-    }
-    class Graf
-    {
-        List<Węzeł4> węzły;
-        List<Krawędzie> krawędzie;
-    }
-
-
-    /* public void Usuń(int liczba)
-     {
-         Węzeł3 w = znajdź(liczba);
-         if (w != null)
-         {
-             Usuń(w);
-             liczbaWęzłów--;
-         }
-     }*/
+    
+        
     /*private void Usuń(Węzeł3 w)
     {
         //1: Gdy nie ma dzieci to odwiązujemy Węzeł

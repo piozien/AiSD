@@ -34,8 +34,9 @@ namespace dodawanie_w_słupku
 
             }
             return wynik;
-        }
 
+        }
     }
 }
+
 

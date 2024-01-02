@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dodawanie w słupku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+503cbfe9d4982858d3178b0bbca2bb0c4883eef7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa31cc31d442926badcefe5a4165e00e8ce0b12")]
 [assembly: System.Reflection.AssemblyProductAttribute("dodawanie w słupku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dodawanie w słupku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

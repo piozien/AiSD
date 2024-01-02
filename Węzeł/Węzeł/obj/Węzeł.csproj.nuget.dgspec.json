@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\uwm\\rok2\\asid\\Węzeł\\Węzeł\\Węzeł.csproj": {}
+    "D:\\uwm\\rok2\\AiSD\\Węzeł\\Węzeł\\Węzeł.csproj": {}
   },
   "projects": {
-    "D:\\uwm\\rok2\\asid\\Węzeł\\Węzeł\\Węzeł.csproj": {
+    "D:\\uwm\\rok2\\AiSD\\Węzeł\\Węzeł\\Węzeł.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\uwm\\rok2\\asid\\Węzeł\\Węzeł\\Węzeł.csproj",
+        "projectUniqueName": "D:\\uwm\\rok2\\AiSD\\Węzeł\\Węzeł\\Węzeł.csproj",
         "projectName": "Węzeł",
-        "projectPath": "D:\\uwm\\rok2\\asid\\Węzeł\\Węzeł\\Węzeł.csproj",
+        "projectPath": "D:\\uwm\\rok2\\AiSD\\Węzeł\\Węzeł\\Węzeł.csproj",
         "packagesPath": "C:\\Users\\zient\\.nuget\\packages\\",
-        "outputPath": "D:\\uwm\\rok2\\asid\\Węzeł\\Węzeł\\obj\\",
+        "outputPath": "D:\\uwm\\rok2\\AiSD\\Węzeł\\Węzeł\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zient\\AppData\\Roaming\\NuGet\\NuGet.Config",

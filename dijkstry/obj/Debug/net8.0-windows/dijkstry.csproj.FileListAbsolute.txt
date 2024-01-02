@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\dijkstry\bin\Debug\net8.0-windows\dijkstry.exe
+D:\uwm\rok2\AiSD\dijkstry\bin\Debug\net8.0-windows\dijkstry.deps.json
+D:\uwm\rok2\AiSD\dijkstry\bin\Debug\net8.0-windows\dijkstry.runtimeconfig.json
+D:\uwm\rok2\AiSD\dijkstry\bin\Debug\net8.0-windows\dijkstry.dll
+D:\uwm\rok2\AiSD\dijkstry\bin\Debug\net8.0-windows\dijkstry.pdb
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.Form1.resources
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.sourcelink.json
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.dll
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\refint\dijkstry.dll
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.pdb
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\dijkstry.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\dijkstry\obj\Debug\net8.0-windows\ref\dijkstry.dll
