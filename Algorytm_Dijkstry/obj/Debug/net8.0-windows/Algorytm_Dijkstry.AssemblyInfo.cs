@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algorytm_Dijkstry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a793862d97e0f480793a4578c1db91f78e1c0fc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d9d542f68b008d6231a10bf50a692521c03990d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algorytm_Dijkstry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algorytm_Dijkstry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

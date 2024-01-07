@@ -9,9 +9,10 @@ namespace SelectSort
 
         private void SelectSort_Click(object sender, EventArgs e)
         {
-            string tabs = tbInput.Text;
-            int[] tab = convertInt(tabs);
-            int[] tab2 = selectSort(tab);
+          //  string tabs = tbInput.Text;
+           // int[] tab = convertInt(tabs);
+            int[] tab3 = { 10, 5, 2, 4, 8, 7 };
+            int[] tab2 = selectSort(tab3);
             string wyn = convertString(tab2);
             lblWynik.Text = ("Wyn: " + wyn);
         }

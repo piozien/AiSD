@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dijkstry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa31cc31d442926badcefe5a4165e00e8ce0b12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d9d542f68b008d6231a10bf50a692521c03990d")]
 [assembly: System.Reflection.AssemblyProductAttribute("dijkstry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dijkstry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

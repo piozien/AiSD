@@ -1,0 +1,16 @@
+D:\Repositories\AiSD\graf przejść\graf przejść\bin\Debug\net6.0-windows\graf przejść.exe
+D:\Repositories\AiSD\graf przejść\graf przejść\bin\Debug\net6.0-windows\graf przejść.deps.json
+D:\Repositories\AiSD\graf przejść\graf przejść\bin\Debug\net6.0-windows\graf przejść.runtimeconfig.json
+D:\Repositories\AiSD\graf przejść\graf przejść\bin\Debug\net6.0-windows\graf przejść.dll
+D:\Repositories\AiSD\graf przejść\graf przejść\bin\Debug\net6.0-windows\graf przejść.pdb
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf_przejść.Form1.resources
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.csproj.GenerateResource.cache
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.AssemblyInfoInputs.cache
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.AssemblyInfo.cs
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.csproj.CoreCompileInputs.cache
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.dll
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\refint\graf przejść.dll
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.pdb
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\graf przejść.genruntimeconfig.cache
+D:\Repositories\AiSD\graf przejść\graf przejść\obj\Debug\net6.0-windows\ref\graf przejść.dll

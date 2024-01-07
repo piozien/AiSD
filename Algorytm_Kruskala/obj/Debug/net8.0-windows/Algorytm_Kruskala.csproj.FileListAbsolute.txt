@@ -1,0 +1,17 @@
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\bin\Debug\net8.0-windows\Algorytm_Kruskala.exe
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\bin\Debug\net8.0-windows\Algorytm_Kruskala.deps.json
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\bin\Debug\net8.0-windows\Algorytm_Kruskala.runtimeconfig.json
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\bin\Debug\net8.0-windows\Algorytm_Kruskala.dll
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\bin\Debug\net8.0-windows\Algorytm_Kruskala.pdb
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.Form1.resources
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.csproj.GenerateResource.cache
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.GeneratedMSBuildEditorConfig.editorconfig
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.AssemblyInfoInputs.cache
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.AssemblyInfo.cs
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.csproj.CoreCompileInputs.cache
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.sourcelink.json
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.dll
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\refint\Algorytm_Kruskala.dll
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.pdb
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\Algorytm_Kruskala.genruntimeconfig.cache
+D:\uwm\rok2\AiSD\Algorytm_Kruskala\obj\Debug\net8.0-windows\ref\Algorytm_Kruskala.dll
